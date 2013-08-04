@@ -1,7 +1,7 @@
-I am just a simple website template.
+Work in progress for tablet optimized web based npc and character manager. 
 
-I have a header, section (with an id of content), and a footer. I have no bells and whistles, just some dummy lorem ipsum.
+Currently just the html templates are built as a test.
 
-Enjoy me. Mold me. Change me. Fill me with your custom content and CSS. That's what I'm here for; I'm a springboard to jump from when other templates are too large.
+Roadmap forthcoming.
 
-Creative Commons license. I only ask you keep the attribution in the base stylesheet.
+All Rights Reserved.
